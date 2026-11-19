@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mika Player</string>
+    <string name="widget_description">Customizable music player controls and artwork widget</string>
+    <string name="widget_artwork_desc">Album artwork</string>
+    <string name="widget_action_favorite">Toggle favorite</string>
+    <string name="widget_action_shuffle">Toggle shuffle</string>
+    <string name="widget_action_prev">Previous track</string>
+    <string name="widget_action_play_pause">Play or pause</string>
+    <string name="widget_action_next">Next track</string>
+    <string name="widget_action_repeat">Cycle repeat mode</string>
+    <string name="widget_action_stop">Stop playback</string>
+    <string name="widget_compact_description">Compact 2x1 mini player widget</string>
+    <string name="widget_expanded_description">Expanded 4x2 album art player widget</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mika",
+  "description": "PREMIUM OFFLINE MUSIC PLAYER",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
